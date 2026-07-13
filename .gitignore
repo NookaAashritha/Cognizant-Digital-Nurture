@@ -1,0 +1,11 @@
+.DS_Store
+extracted/
+node_modules/
+dist/
+target/
+.angular/
+app.log
+output.txt
+*.class
+*.log
+*.tmp
